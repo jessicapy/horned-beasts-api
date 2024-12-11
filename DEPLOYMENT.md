@@ -12,3 +12,6 @@
 2. **Login en Render**: Inicia sesión en tu cuenta de render
 3. **New web service**: Conectar con github y selecciona tu reporsitorio.
 4. **Environment variables**: PORT:3001
+5. **URL de la API Desplegada** 
+Puedes acceder a la API desplegada en la siguiente URL:
+[https://horned-beasts-api-ztr2.onrender.com](https://horned-beasts-api-ztr2.onrender.com)
